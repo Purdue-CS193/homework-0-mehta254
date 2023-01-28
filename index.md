@@ -15,9 +15,11 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+#Sports
 - Badminton
 - Table Tennis
 
+#Foods
 1. Cheesecake
 2. **Vanilla** Ice Cream
 
