@@ -15,11 +15,11 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Badminton
+- Table Tennis
 
-1. Numbered
-2. List
+1. Cheesecake
+2. **Vanilla** Ice Cream
 
 **Bold** and _Italic_ and `Code` text
 
